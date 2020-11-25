@@ -48,7 +48,6 @@ switch (day) {
   default:
     day = alert("There is no month like that");
 }
-document.getElementById("demo").innerHTML = day;
 </script>
 
 </body>
