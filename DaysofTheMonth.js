@@ -46,7 +46,7 @@ switch (day) {
     break;
    
   default:
-    day = "There is no month like that";
+    day = alert("There is no month like that");
 }
 document.getElementById("demo").innerHTML = day;
 </script>
