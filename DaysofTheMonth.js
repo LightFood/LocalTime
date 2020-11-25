@@ -46,7 +46,7 @@ switch (day) {
     break;
    
   default:
-    day = alert("There is no month like that");
+    day = alert("There is no month like that.");
 }
 </script>
 
